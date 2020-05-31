@@ -4,7 +4,7 @@
 
 > https://www.youtube.com/watch?v=BTnp1TiiSMg&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=35
 
-2. Awesome npn package:
+2. Awesome npm package:
 
 - expo
 
